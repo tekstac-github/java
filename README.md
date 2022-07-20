@@ -1,1 +1,1 @@
-Sample to java code to display Hello World
+Sample java code to display Hello World
